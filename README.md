@@ -8,7 +8,7 @@
 ## Installation
 
 ``` php
-composer require wamesk/laravel-nova-rating-input
+composer require wamesk/rating-field
 ```
 
 ## Usage
